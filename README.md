@@ -1,6 +1,5 @@
 # CleanClip — Smart Clipboard Cleaner for Windows
 
-[![Downloads](https://img.shields.io/github/downloads/EmmanNocilla/clean-clip/total?color=3b82f6&style=for-the-badge)](https://github.com/EmmanNocilla/clean-clip/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![.NET 8](https://img.shields.io/badge/.NET-8.0-5c2d91?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Itch.io](https://img.shields.io/badge/itch.io-CleanClip-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://noemio.itch.io/clean-clip)
